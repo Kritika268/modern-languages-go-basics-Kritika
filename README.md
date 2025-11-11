@@ -140,18 +140,20 @@ MODERN-LANGUAGES-GO-BASICS/
 *   Proper folder structure with Go modules (go.mod).
     
 
-### 🗂️ Steps to Run Locally
+🗂️ Steps to Run Locally
+------------------------
 
-1.  git clone https://github.com//MODERN-LANGUAGES-GO-BASICS.gitcd MODERN-LANGUAGES-GO-BASICS/src/go
+1.  git clone https://github.com/Kritika268/modern-languages-go-basics-Kritika.git
     
-2.  go mod tidy
+2.  cd modern-languages-go-basics-Kritika/src/go
     
-3.  cd task3\_datatypesgo run main.go
+3.  go mod tidy
     
-4.  **View Output Screenshots**
+4.  cd task3\_datatypesgo run main.go
     
-    *   Open the corresponding taskX\_output.png file under each task folder or screenshots/ directory.
-        
+5.  **View Outputs**
+    
+    *   Open the corresponding taskX\_output.png under each task folder or in screenshots/
 
 🖼️ Screenshots
 ---------------
